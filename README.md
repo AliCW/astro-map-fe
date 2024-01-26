@@ -30,4 +30,9 @@ Make sure your local machine reach the minimum requirement.
 5. Make sure you go to [Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_GB&gl=US&pli=1) (Andriod) or [App Store](https://apps.apple.com/us/app/expo-go/id982107779) (iOS) and install Expo Go
 6. Once finished, open Expo Go and Scan the QR Code shown in the terminal
 
-If error message is shown in the terminal, try to troubleshoot it and see if all the packages are installed correctly.
+If error message is shown in the terminal, try to troubleshoot it and see if all the packages are installed correctly. 
+
+## Uncaught Error: java.net.SocketTimeoutException: failed to connect after 10000ms
+
+1. Connect & enable USB tethering between your computer & mobile device
+2. Enable USB debugging in your mobile device's developer settings
